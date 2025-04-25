@@ -92,8 +92,11 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 My Latest Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lorena-davila2025&show_icons=true&theme=radical" alt="lorena-davila2025's GitHub stats" />
-</p>
+Here are some of my recent deployed React projects:
+
+- [react-shopping-cart](https://react-shopping-cart-2025.netlify.app)
+- [react-movies-app](https://react-movies-app-2025.netlify.app)
+- [hooks-react-practice](https://aesthetic-alfajores-e05a0c.netlify.app)
+- [weather-react-app](https://react-weather-app-using-custom-hooks.netlify.app)
