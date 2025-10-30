@@ -4,10 +4,12 @@
 <br />
 
 - 🌱 I’m a **Software Developer** with around 4 years of experience.
-- 💻 I’ve worked across **Cuba, Peru, and with **U.S.-based teams**, on projects ranging from small business websites to enterprise platforms.
-- 🧑‍💻 I love working with **React**, **TypeScript**, **Redux**, **React Testing Library**, **Jest**
+- 💻 Worked across **Cuba, Peru, and with **U.S.-based teams**, on projects ranging from small business websites to enterprise platforms.
+- 🧑‍💻 Love working with **React**, **TypeScript**, **Redux**, **React Testing Library**, **Jest**
+- ✍️ I have a site where I share news about the repression in Cuba at [Cuba: Myths vs Reality](https://cuba-myths-vs-reality.com/)
+- 📊 Currently working as a freelancer on a **data analysis app** with my family to generate forecasts for small to medium companies.
+- 🚀 Looking to collaborate on frontend-focused or full-stack projects!
 - 🎯 Focused on always learning and improving.
-- 🚀 Currently looking to collaborate on frontend-focused or full-stack projects!
 
 <br />
 
@@ -62,9 +64,9 @@
 
 ### 📚 Education
 
-- 👩‍🎓 **Bachelor of Software Engineering** – Technological University of Havana (CU)
-- 💻 **Codeable Bootcamp** – Full-Stack (Lima, 2021) 
-- 📖 **Digital House** – Certified Tech Developer (In Progress)
+- 👩‍🎓 **Bachelor of Software Engineering** – Technological University of Havana (Cuba)
+- 💻 **Codeable Bootcamp** – Full-Stack (Lima, Peru 2021) 
+- 📖 **Digital House** – Certified Tech Developer (Argentina, In Progress)
 - 🎓 **Le Wagon Bootcamp** – Web Dev (Montreal, 2025)
 
 <br />
