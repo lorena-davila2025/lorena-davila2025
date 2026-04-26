@@ -2,9 +2,10 @@
 <h3 align="center">Frontend Developer with React & TypeScript | Backend with Rails </h3>
 
 <br />
-- 💻 Currently studying Cyber Security 🛡️.
-- 🌱 I’m a **Software Developer** with around 5 years of experience.
-- 📊 Worked on projects ranging from small business websites to enterprise platforms.
+
+- 💻 Currently studying Cyber Security 🛡️.  
+- 🌱 I’m a **Software Developer** with around 5 years of experience.  
+- 📊 Worked on projects ranging from small business websites to enterprise platforms.  
 - 🧑‍💻 Love working with **React**, **TypeScript**, **Redux**, **React Testing Library**, **Jest**
 - ✍️ In my free time I share news about the repression in Cuba at [Cuba: Myths vs Reality](https://cuba-myths-vs-reality.com/)
 - 🎯 Focused on learning and improving, that is a happy place✨.
