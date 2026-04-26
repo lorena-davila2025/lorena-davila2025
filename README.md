@@ -2,14 +2,12 @@
 <h3 align="center">Frontend Developer with React & TypeScript | Backend with Rails </h3>
 
 <br />
-
-- 🌱 I’m a **Software Developer** with around 4 years of experience.
-- 💻 Worked across **Cuba, Peru, and with **U.S.-based teams**, on projects ranging from small business websites to enterprise platforms.
+- 💻 Currently studying Cyber Security 🛡️.
+- 🌱 I’m a **Software Developer** with around 5 years of experience.
+- 📊 Worked on projects ranging from small business websites to enterprise platforms.
 - 🧑‍💻 Love working with **React**, **TypeScript**, **Redux**, **React Testing Library**, **Jest**
-- ✍️ I have a site where I share news about the repression in Cuba at [Cuba: Myths vs Reality](https://cuba-myths-vs-reality.com/)
-- 📊 Currently working as a freelancer on a **data analysis app** with my family to generate forecasts for small to medium companies.
-- 🚀 Looking to collaborate on frontend-focused or full-stack projects!
-- 🎯 Focused on always learning and improving.
+- ✍️ In my free time I share news about the repression in Cuba at [Cuba: Myths vs Reality](https://cuba-myths-vs-reality.com/)
+- 🎯 Focused on learning and improving, that is a happy place✨.
 
 <br />
 
@@ -67,7 +65,6 @@
 - 👩‍🎓 **Bachelor of Software Engineering** – Technological University of Havana (Cuba)
 - 💻 **Codeable Bootcamp** – Full-Stack (Lima, Peru 2021) 
 - 📖 **Digital House** – Certified Tech Developer (Argentina, In Progress)
-- 🎓 **Le Wagon Bootcamp** – Web Dev (Montreal, 2025)
 
 <br />
 
@@ -81,16 +78,9 @@
 ### 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://ca.linkedin.com/in/lorena-davila-ermus/en)
-[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:lorena90davila@gmail.com)  
+[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:lorena.davila.ermus@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:lorena90davila@gmail.com) 
 📱 +1 438 325 5900 | 📱 +51 915 990 507
-
----
-
-### ⚡ Fun Facts
-
-- 🛠️ Started as a **computer technician** in Cuba before becoming a dev.
-- 🌐 Worked with teams from **3 countries** and counting!
-- ✨ Web development is a happy place for me.
 
 ---
 
